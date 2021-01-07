@@ -1,0 +1,6 @@
+create plybook project.yml
+---
+name :project.yml
+ host:all
+  service:restart
+   
